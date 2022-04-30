@@ -3,3 +3,4 @@ I have consolidated the css styel sheet selectors provided.  I have also renamed
 
 link to site https://pcents.github.io/css-demo-site/
 
+![JP Screenshot](https://user-images.githubusercontent.com/103531480/166125205-b3008a4b-a774-427a-be7c-a015a8b8d9cf.png)
